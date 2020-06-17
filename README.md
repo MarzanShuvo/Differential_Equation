@@ -8,6 +8,6 @@ This course provided an in-depth overview of powerful mathematical techniques fo
 
 >I followed ME 564 - Mechanical Engineering Analysis provided by University of Washington
 
-[! course linke](https://www.youtube.com/watch?v=QM0ATZRlbKQ&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
+[!Course link](https://www.youtube.com/watch?v=QM0ATZRlbKQ&list=PLMrJAkhIeNNR2W2sPWsYxfrxcASrUt_9j)
 
 
